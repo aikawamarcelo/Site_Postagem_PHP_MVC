@@ -1,0 +1,16 @@
+{
+    "name": "marce/site_mvc_php",
+    "autoload": {
+        "psr-4": {
+            "Marce\\SiteMvcPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarceloAik"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.7"
+    }
+}
